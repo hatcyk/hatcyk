@@ -8,7 +8,7 @@ I'm a passionate developer based in **Prague** 🏰, specializing in FiveM devel
 - 🌱 I'm currently learning **React** and expanding my **Lua** expertise
 - 👯 I'm looking to collaborate on **FiveM scripts** and **open source projects**
 - 💬 Ask me about **Lua, FiveM scripting, and game development**
-- 📫 How to reach me: **[stefan.barat@example.com](mailto:welovelua.contact@gmail.com)**
+- 📫 How to reach me: **Email(mailto:welovelua.contact@gmail.com)**
 - ⚡ Fun fact: **I'm based in the beautiful city of Prague!** 🇨🇿
 
 ## 🛠️ Tech Stack
