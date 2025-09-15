@@ -2,27 +2,39 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building innovative solutions and learning new technologies. Currently focused on creating impactful projects that solve real-world problems.
+I'm a passionate developer based in **Prague** 🏰, specializing in FiveM development and modern web technologies. I love creating innovative gaming experiences and learning new technologies to bring ideas to life.
 
-- 🔭 I'm currently working on **hcyk_multijob, a Switchjob/Multijob script for FiveM with a React-based UI**.
-- 🌱 I'm currently learning **React and Lua**.
-- 👯 I'm looking to collaborate on **open source projects**.
-- 💬 Ask me about **Lua and FiveM scripting**.
-- 📫 How to reach me: **[welovelua.contact@gmail.com]**
-- ⚡ Fun fact: **I'm based in Prague!**.
+- 🔭 I'm currently working on **spsd_StudentHub**
+- 🌱 I'm currently learning **React** and expanding my **Lua** expertise
+- 👯 I'm looking to collaborate on **FiveM scripts** and **open source projects**
+- 💬 Ask me about **Lua, FiveM scripting, and game development**
+- 📫 How to reach me: **[stefan.barat@example.com](mailto:welovelua.contact@gmail.com)**
+- ⚡ Fun fact: **I'm based in the beautiful city of Prague!** 🇨🇿
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Game Development
+![FiveM](https://img.shields.io/badge/FiveM-349FDB?style=for-the-badge&logo=fivem&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatcyk&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hatcyk&layout=compact&theme=radical)
@@ -35,57 +47,51 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hatcyk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hatcyk&theme=react-dark)
-
 ## 🚀 Featured Projects
 
 ### 📦 hcyk_multijob
 > A simple, minimalistic Switchjob/Multijob script for FiveM, based on ESX. Built with a React-based UI and utilizes `ox_lib` for notifications.
 - 🔗 [Repository](https://github.com/hatcyk/hcyk_multijob)
-- 💻 Tech Stack: Lua, React
+- 💻 **Tech Stack:** Lua, React, ESX Framework
+- ✨ **Features:** Multiple job management, React UI, ox_lib integration
 
 ### 📦 hcyk_heist
-> A heist script for FiveM.
+> An immersive heist script for FiveM that adds exciting robbery missions to your server.
 - 🔗 [Repository](https://github.com/hatcyk/hcyk_heist)
-- 💻 Tech Stack: Lua
+- 💻 **Tech Stack:** Lua, ESX Framework
+- ✨ **Features:** Multiple heist locations, configurable rewards, police integration
 
 ### 📦 hcyk_weapontests
-> Just like driving school, but for a weapon license in FiveM.
+> Just like driving school, but for weapon licenses in FiveM. Complete training and tests to obtain your weapon permit.
 - 🔗 [Repository](https://github.com/hatcyk/hcyk_weapontests)
-- 💻 Tech Stack: Lua
+- 💻 **Tech Stack:** Lua, ESX Framework
+- ✨ **Features:** Training courses, practical tests, license management
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Article Title 1](https://your-blog.com/article1)
-- [Article Title 2](https://your-blog.com/article2)
-- [Article Title 3](https://your-blog.com/article3)
-<!-- BLOG-POST-LIST:END -->
+## 🎮 FiveM Development Focus
+
+I specialize in creating immersive and optimized scripts for FiveM servers:
+- **ESX Framework** expertise
+- **Performance optimization** for server stability
+- **Custom UI development** with React
+- **Player experience** focused design
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hatsuko.4fan.cz/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-## 💖 Support My Work
-
-If you like what I do, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hatcyk)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan.barat@example.com)
 
 ---
 
 <div align="center">
-
+  
 ### 👀 Profile Views
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=hatcyk&color=blueviolet&style=flat-square)
 
 ### ✨ Random Dev Quote
-
+  
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
@@ -93,5 +99,7 @@ If you like what I do, consider buying me a coffee!
 ---
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Let's connect and build something amazing together! 🚀</i>
+  
+  <b>From Prague with ❤️</b>
 </div>
