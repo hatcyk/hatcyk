@@ -2,14 +2,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer based in **Prague** 🏰, specializing in FiveM development and modern web technologies. I love creating innovative gaming experiences and learning new technologies to bring ideas to life.
+I'm a junior developer based in **Prague** 🏰, specializing in FiveM development and modern web technologies. I like learning new technologies to bring ideas to life.
 
-- 🔭 I'm currently working on **spsd_StudentHub**
+- 🔭 I'm currently working on **spsd_ITweb**
 - 🌱 I'm currently learning **React** and expanding my **Lua** expertise
-- 👯 I'm looking to collaborate on **FiveM scripts** and **open source projects**
-- 💬 Ask me about **Lua, FiveM scripting, and game development**
 - 📫 How to reach me: **[Email](mailto:welovelua.contact@gmail.com)**
-- ⚡ Fun fact: **I'm based in the beautiful city of Prague!** 🇨🇿
 
 ## 🛠️ Tech Stack
 
