@@ -4,7 +4,6 @@
 
 I'm a junior developer based in **Prague** 🏰, specializing in FiveM development and modern web technologies. I like learning new technologies to bring ideas to life.
 
-- 🔭 I'm currently working on **spsd_ITweb**
 - 🌱 I'm currently learning **React** and expanding my **Lua** expertise
 - 📫 How to reach me: **[Email](mailto:welovelua.contact@gmail.com)**
 
