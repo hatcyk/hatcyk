@@ -44,34 +44,6 @@ I'm a junior developer based in **Prague** 🏰, specializing in FiveM developme
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hatcyk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🚀 Featured Projects
-
-### 📦 hcyk_multijob
-> A simple, minimalistic Switchjob/Multijob script for FiveM, based on ESX. Built with a React-based UI and utilizes `ox_lib` for notifications.
-- 🔗 [Repository](https://github.com/hatcyk/hcyk_multijob)
-- 💻 **Tech Stack:** Lua, React, ESX Framework
-- ✨ **Features:** Multiple job management, React UI, ox_lib integration
-
-### 📦 hcyk_heist
-> An immersive heist script for FiveM that adds exciting robbery missions to your server.
-- 🔗 [Repository](https://github.com/hatcyk/hcyk_heist)
-- 💻 **Tech Stack:** Lua, ESX Framework
-- ✨ **Features:** Multiple heist locations, configurable rewards, police integration
-
-### 📦 hcyk_weapontests
-> Just like driving school, but for weapon licenses in FiveM. Complete training and tests to obtain your weapon permit.
-- 🔗 [Repository](https://github.com/hatcyk/hcyk_weapontests)
-- 💻 **Tech Stack:** Lua, ESX Framework
-- ✨ **Features:** Training courses, practical tests, license management
-
-## 🎮 FiveM Development Focus
-
-I specialize in creating immersive and optimized scripts for FiveM servers:
-- **ESX Framework** expertise
-- **Performance optimization** for server stability
-- **Custom UI development** with React
-- **Player experience** focused design
-
 ## 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hatsuko.4fan.cz/)
