@@ -27,10 +27,6 @@ I'm a junior developer based in **Prague** 🏰, specializing in FiveM developme
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatcyk&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hatcyk&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hatcyk&theme=radical)
 
