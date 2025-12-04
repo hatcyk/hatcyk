@@ -51,23 +51,3 @@ I'm a junior developer based in **Prague** 🏰, specializing in FiveM developme
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan.barat@example.com)
 
 ---
-
-<div align="center">
-  
-### 👀 Profile Views
-  
-![Profile Views](https://komarev.com/ghpvc/?username=hatcyk&color=blueviolet&style=flat-square)
-
-### ✨ Random Dev Quote
-  
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-  <i>Let's connect and build something amazing together! 🚀</i>
-  
-  <b>From Prague with ❤️</b>
-</div>
