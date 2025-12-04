@@ -4,9 +4,6 @@
 
 I'm a junior developer based in **Prague** 🏰, specializing in FiveM development and modern web technologies. I like learning new technologies to bring ideas to life.
 
-- 🌱 I'm currently learning **React** and expanding my **Lua** expertise
-- 📫 How to reach me: **[Email](mailto:welovelua.contact@gmail.com)**
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -38,10 +35,6 @@ I'm a junior developer based in **Prague** 🏰, specializing in FiveM developme
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hatcyk&theme=radical)
 
 </div>
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hatcyk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🤝 Connect with Me
 
