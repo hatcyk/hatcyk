@@ -27,8 +27,6 @@ I'm a junior developer based in **Prague** 🏰, specializing in FiveM developme
 ## 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hatsuko.4fan.cz/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hatcyk)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](@hatsukooo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatcyk@seznam.com)
 
 ---
